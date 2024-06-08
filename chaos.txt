@@ -1,1 +1,2 @@
-I think I'm going to finally create a conflict with this file
+I am deliberately creating conflict
+Let's create conflict
